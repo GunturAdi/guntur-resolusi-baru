@@ -2,4 +2,6 @@ Resolusi skill di tahun 2023
 
 1.Javascript
   *framework react
-2.My Sql
+  *framework vue
+  *framework angular
+2.MongoDB
