@@ -5,3 +5,4 @@ Resolusi skill di tahun 2023
   *framework vue
   *framework angular
 2.MongoDB
+
